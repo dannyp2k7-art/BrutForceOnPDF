@@ -8,7 +8,7 @@ Outil de brute force de fichiers PDF en Python.
 
 
 
-tqdm : présent pour l'affichage / temps de la boucle en fonction de votre dictionnaire
+* **tqdm**  : présent pour l'affichage / temps de la boucle en fonction de votre dictionnaire
 
 Note : Peut nécessiter --break-system-packages si votre environnement virtuel n'est pas créé.
 
