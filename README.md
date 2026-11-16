@@ -5,8 +5,6 @@ Outil de brute force de fichiers PDF en Python.
 ## Dépendances
 
 * **pikepdf** : Gestion des fichiers PDF utilisée pour itérer les mots de passe.
-  ```bash
-  pip install pikepdf
 
 
 
@@ -14,9 +12,15 @@ tqdm : présent pour l'affichage / temps de la boucle en fonction de votre dicti
 
 Note : Peut nécessiter --break-system-packages si votre environnement virtuel n'est pas créé.
 
+  ```bash
+  pip install pikepdf tqdm 
+```
+
 Performances
 
 Lors des tests : 14 millions de mots de passe itérés en une quinzaine de minutes à partir du rockyou 150 Mo (version 2026) sur un PDF test.
+
+
 Possibilités pour améliorer la vitesse
 
     Passer du Python au C : Par nature, le C est un langage plus proche du langage machine et bien plus rapide que le Python.
