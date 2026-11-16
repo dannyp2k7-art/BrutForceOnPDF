@@ -28,3 +28,7 @@ Possibilités pour améliorer la vitesse
     Dictionnaire adapté / personnalisé : L'utilisation d'un dictionnaire utilisant des informations propres à la personne permet une recherche plus affinée et efficace.
 
     Supprimer la partie graphique qui ralentit le reste.
+
+Credits 
+
+Pdf de Test : MrPhilippe Livolsi 
